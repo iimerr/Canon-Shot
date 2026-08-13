@@ -74,17 +74,10 @@ Destroy as many shapes as possible in 30 seconds. Shape values: Star (300), Diam
 
 ## Repository Contents
 
-> 🚧 Source code to be added.
-
-```
-canon-shot/
-├── README.md
-└── src/            <- firmware source (to be added)
-```
 
 ## Demo Video
 
-[_Link to be added._](https://www.youtube.com/watch?si=MekqNhcINxoYTO1x&v=WZRVseMsXPs&feature=youtu.be)
+[_Cannon Shot Demo_](https://www.youtube.com/watch?si=MekqNhcINxoYTO1x&v=WZRVseMsXPs&feature=youtu.be)
 
 ## Authors
 
