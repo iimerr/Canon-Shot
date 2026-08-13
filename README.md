@@ -72,8 +72,6 @@ Destroy as many shapes as possible in 30 seconds. Shape values: Star (300), Diam
 - The UART protocol assumes a direct wired link between exactly two boards; no support for more than two players.
 - Shape movement is randomized per-frame but doesn't scale in difficulty over a round; a future version could increase shape speed as the countdown runs low.
 
-## Repository Contents
-
 
 ## Demo Video
 
